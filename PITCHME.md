@@ -1,4 +1,4 @@
-## FireBase
+## Bienvenid@s a FireBase :wave:
 #### Principales características de la BBDD:
 
 * Gratuita en fase de desarrollo
