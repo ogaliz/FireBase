@@ -1,15 +1,14 @@
 ## Bienvenid@s a FireBase :wave:
 
 #### Un poco de Historia
-Fundada en 2011, por James Tamplin y Andew Lee (Envolve)
-Nacen como un sistema de chat, los desarrolladores empiezan a utilizarlo en masa
-En 2014 son comprados por la gran G
-En octubre 2017 Firebase lanzó Cloud Firestore, una base de datos NoSQL en la nube
+* Fundada en 2011, por James Tamplin y Andew Lee (Envolve)
+* Nacen como un sistema de chat, los desarrolladores empiezan a utilizarlo en masa
+* En 2014 son comprados por la gran G
+* En octubre 2017 Firebase lanzó Cloud Firestore, una base de datos NoSQL en la nube
 
 ---
 
 #### Principales características de la BBDD:
-
 * Gratuita en fase de desarrollo
 * Base de datos en tiempo real.
 * Total cochesión con los servicios de Google, como autenticación y adwords.
