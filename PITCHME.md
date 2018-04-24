@@ -40,6 +40,7 @@
   var miFireBase = firebase.database();
   var provider = new firebase.auth.GoogleAuthProvider();
 ````
+---
 
 #### Tecnologías empleadas
 
