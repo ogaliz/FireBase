@@ -19,6 +19,17 @@
 * Sin lenguaje del lado servidor, esas funciones las añadimos en el apartado de *Cloud Functions*
 
 ---
+#### Transformación MySql a FireBase
+Tablas --> son colecciones
+Filas --> son documentos (primer registro)
+Registros --> son campos, formato JSON
+````
+  nombre : "Carolina",
+  apellido : "García"
+````
+(Un documentos puede tener una colección anidada)
+
+---
 
 #### Pasos para implementar FireBase
 
@@ -27,7 +38,11 @@
 3. Crea una variable referencia a la raíz de tu BD
 ````
   var miFireBase = firebase.database();
+  var provider = new firebase.auth.GoogleAuthProvider();
 ````
----
-### Agregar documentos
+
+
+
+
+
 
