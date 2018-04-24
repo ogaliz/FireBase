@@ -41,6 +41,15 @@
   var provider = new firebase.auth.GoogleAuthProvider();
 ````
 
+#### Tecnologías empleadas
+
+* HTML5  CSS3
+* Javascript
+* Bootstrap4
+* Jquery
+* FireStore
+* GIT y Trello
+
 
 
 
