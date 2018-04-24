@@ -20,9 +20,9 @@
 
 ---
 #### Transformación MySql a FireBase
-Tablas --> son colecciones
-Filas --> son documentos (primer registro)
-Registros --> son campos, formato JSON
+* Tablas --> son colecciones
+* Filas --> son documentos (primer registro)
+* Registros --> son campos, formato JSON
 ````
   nombre : "Carolina",
   apellido : "García"
